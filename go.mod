@@ -1,4 +1,4 @@
-module github.com/jonasvinther/renovate-minimal-reproduction
+module github.com/kjuulh/renovate-17923-custom
 
 go 1.18
 
